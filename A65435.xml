@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at St. Mary Whitechappel on the second of December, 1697 being the day of thanksgiving for the peace / by Richard Welton, rector of the said parish.</title>
+            <author>Welton, R. (Richard), 1671?-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65435</idno>
+            <idno type="STC">Wing W1346</idno>
+            <idno type="STC">ESTC R38245</idno>
+            <idno type="EEBO-CITATION">17242964</idno>
+            <idno type="OCLC">ocm 17242964</idno>
+            <idno type="VID">106276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106276)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1162:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at St. Mary Whitechappel on the second of December, 1697 being the day of thanksgiving for the peace / by Richard Welton, rector of the said parish.</title>
+                  <author>Welton, R. (Richard), 1671?-1726.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Publish'd at the request of the parishioners."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CVIII --  Sermons.</term>
+               <term>Peace --  Religious aspects.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106276:1"/>
+            <pb facs="tcp:106276:1"/>
+            <p> A SERMON PREACH'D AT S<hi rend="sup">t</hi> 
+               <hi>Mary Whitechappel,</hi> ON THE Second of DECEMBER, 1697.</p>
+            <p>BEING THE Day of Thankſgiving For the PEACE.</p>
+            <p>By <hi>RICHARD WELTON,</hi> Rector of the ſaid Pariſh.</p>
+            <p>Publiſh'd at the Requeſt of the Pariſhioners.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> againſt the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> MDCXC VII.</p>
+            <pb facs="tcp:106276:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106276:2"/>
+            <head>
+               <hi>To my Honoured UNCLE,</hi> Samuel Atkinſon, <hi>
+                  <abbr>Esq</abbr>.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE kind Reception I have met withal from my Pariſhioners, ever ſince it has been my <hi>Happineſs</hi> as well as Duty to Preach unto them; and the Encouragement they have given me, in their Favourable Approbations not only of <hi>This,</hi> but all my Other Undertakings, have oblig'd me to gratify them in their Requeſts, ſo far as to appear in Publick in the following Diſcourſe.</p>
+            <p>It is contrary to the Dictates of my own Incli<g ref="char:EOLhyphen"/>nations, thus to venture my ſelf Abroad: 'Tis purely to oblige them in this, as (to the utmoſt of my Capacity) I ſhall be glad to do in all other Re<g ref="char:EOLhyphen"/>ſpects.</p>
+            <p>And yet, I muſt confeſs, 'tis with a Joyful Sa<g ref="char:EOLhyphen"/>tisfaction I embrace this Opportunity, to declare un<g ref="char:EOLhyphen"/>to the World how deeply I ſtand engag'd to Your Goodneſs and Generoſity; and from hence I pre<g ref="char:EOLhyphen"/>ſume
+<pb facs="tcp:106276:3"/> upon the Freedom to offer You Theſe the <hi>Firſt-Fruits</hi> of my <hi>Early</hi> Endeavours.</p>
+            <p>To You, Sir, they do moſt properly belong in every reſpect; to You, that have been my Worthy Friend and Patron by Your Kindneſs; my Father, by a perpetual Affection and Indulgence.</p>
+            <p>To You therefore I humbly Addreſs my ſelf, and beg the Favour of Your Patronage; knowing that (however deficient I may have been in the Manage<g ref="char:EOLhyphen"/>ment of my Subject) You will Accept my Inten<g ref="char:EOLhyphen"/>tions; which are ſincerely deſign'd to promote the Glory of God among thoſe over whom his Provi<g ref="char:EOLhyphen"/>dence has been ſo ſignally wonderful: In giving them a Senſe of the Mercies they have receiv'd at his Hands; that thereby they may be won by his exceeding Goodneſs, to praiſe him for it by their Lives and Actions, and conſequently that they may proſper and flouriſh; as <hi>They</hi> muſt do, whoever have the Bleſſing of God upon them.</p>
+            <p>This is my whole Aim in the following Diſcourſe; which if it ſucceeds in <hi>any</hi> meaſure, it then an<g ref="char:EOLhyphen"/>ſwers the Deſign and hearty Wiſh of,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt Obliged, moſt Affectionate, and Obedient Kinſman, <hi>RICHARD WELTON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106276:3"/>
+            <head>A Thankſgiving-Sermon.</head>
+            <epigraph>
+               <bibl>PSALM CVII. 8.</bibl>
+               <q>O that men would praiſe the Lord for his goodneſs, and for his wonderful works to the children of men!</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Y a ſtrict Enquiry into the Deſign of this Pſalm, we ſhall find it (compos'd by <hi>David)</hi> an Hymn of Praiſe, ſuitable to the Circumſtances of moſt Men; wherein the Royal <hi>Pſalmiſt</hi> ſhows us the various and ſtrange Revolutions which happen, not by an Auſpicious Contingency and Hit of Chance, but by the All-guiding Hand of the Divine Providence, to the Kingdoms and People in the World.</p>
+            <pb n="2" facs="tcp:106276:4"/>
+            <p> There are ſeveral Inſtances offer'd to our View, which do directly expreſs the Wonder<g ref="char:EOLhyphen"/>ful Care of Almighty God towards his Crea<g ref="char:EOLhyphen"/>tures, in delivering them wonderfully from their Troubles and Diſtreſs, as he did the <hi>Iſraelites</hi> from their <hi>Egyptian</hi> Captivity, when no Power, beſides the Hand of God, was able to redeem them.</p>
+            <p>In the foregoing Pſalm we may find the Particular Miſeries of that People: <hi>They were delivered into the hand of the heathen, and they that hated them were the rulers over them; their Enemies alſo oppreſſed them:</hi> So that they be<g ref="char:EOLhyphen"/>came their Slaves, for they were brought into Subjection under their Hand: And the rea<g ref="char:EOLhyphen"/>ſon was, Becauſe in their Proſperity <hi>they for<g ref="char:EOLhyphen"/>gat God their Saviour, which had done great things in Egypt.</hi> They apoſtatiz'd from God, though he had ſo wonderfully deliver'd them from their <hi>Egyptian</hi> Bondage, even by the ſtrange Overthrow of <hi>Pharaoh</hi> and his Hoſt in the <hi>Red Sea:</hi> And yet upon their Repen<g ref="char:EOLhyphen"/>tance, God regarded their Affliction; and whenever they made their Application to him,<q> He conſtantly raiſed up the Spirit of <note place="margin">
+                     <hi>Bp.</hi> Ely<hi>'s Paraph.</hi>
+                  </note> ſome Great Man to (Redeem or) Reſcue them from the Cruelty of their Oppreſſors.</q>
+            </p>
+            <pb n="3" facs="tcp:106276:4"/>
+            <p> This he did for his own Mercies ſake; and this was one reaſon why the Sweet Singer of <hi>Iſrael</hi> compos'd this Anthem of Thankſgiving; even out of a deep Senſe of the Immenſe Love of Almighty God towards thoſe that call upon him.</p>
+            <p>But beſides this foregoing one, there are ſe<g ref="char:EOLhyphen"/>veral other Arguments repeated in this Pſalm, of God's Indulgence towards Mankind; ſhow<g ref="char:EOLhyphen"/>ing that no Circumſtance whatſoever is be<g ref="char:EOLhyphen"/>yond either the Power or the Will of God, for the help of his diſtreſſed Servants: Of that God <hi>who could guide the bewildred Traveller to a Place of Reſt and Habitation:</hi> Who could correct the ſtarving Sharpneſs of hungry Fa<g ref="char:EOLhyphen"/>mine; turning the <hi>barren Wilderneſs into plen<g ref="char:EOLhyphen"/>tiful</hi> and well-ſpread Tables of <hi>Quails and Manna:</hi> Of God who was able to calm the unruly Motion of the proud Waters, and quell the ſtormy Wind into a gentle Breeze: Of God who has deliver'd the Priſoners out of Captivity, even through Bars of Iron, and Gates of Braſs; <hi>turning the wilderneſs into a ſtanding water, and fountains of water from the rocks of ſtone.</hi>
+            </p>
+            <p>Theſe and many other Inſtances might be given of the Goodneſs of God upon the
+<pb n="4" facs="tcp:106276:5"/> World; from whence the Royal Prophet might well make his Inference; <hi>O that men would praiſe the Lord for his goodneſs, and for his wonderful works to the children of men!</hi>
+            </p>
+            <p>The great ſhare of which we have been Partakers in the ſtrange Indulgence of Almigh<g ref="char:EOLhyphen"/>ty God, has laid as great an Obligation upon us to join our Voices with Holy <hi>David:</hi> Since we have found by a moſt Bleſſed Experience, ſuch ſignal Effects of the Protection and Pro<g ref="char:EOLhyphen"/>vidence of Almighty God, as not only the <hi>Iſraelites,</hi> but as any other People under Hea<g ref="char:EOLhyphen"/>ven could ever pretend to.</p>
+            <p>And here might be drawn a fair Parallel, comparable to the Context in every Particu<g ref="char:EOLhyphen"/>lar: To mention no more than theſe Two Inſtances:</p>
+            <p>1. The Wonders of God which we have ſeen in the Deep: Witneſs that Bold Adven<g ref="char:EOLhyphen"/>ture, when our Invincible <hi>Armada</hi> rode in State on the <hi>Mediterranean;</hi> even on the ſame Waters where that Chriſtian <hi>Iſraelite</hi> (St. <hi>Paul)</hi> ſuffer'd Shipwrack, when his Ship bulg'd up<g ref="char:EOLhyphen"/>on that Coaſt: Where the Proud Waves do ſwell to the height of Mountains, and yet our Tall Ships liv'd upon thoſe Mountains,
+<pb n="5" facs="tcp:106276:5"/> to the Amazement of all Strangers, to the Defiance and Terror of our Enemies, and the immortal Glory of our <hi>Engliſh</hi> Nation.</p>
+            <p>But then <hi>2dly,</hi> to apply our Caſe yet more home; Might we not have compar'd our Bondage to the <hi>Egyptian</hi> Captivity, at that Time when Antichriſt began to appear in his Deformity, and to lay that Yoke upon our Necks, which muſt in a ſmall time have preſs'd us down with Sorrow to the Grave? But of this I ſhall be more particular in ano<g ref="char:EOLhyphen"/>ther Place: In the mean time 'tis ſufficient on<g ref="char:EOLhyphen"/>ly to remember in theſe two Inſtances, the great Aſſiſtance we receiv'd then from the Hand of God, in giving us the Victory over thoſe that hated us; in delivering us from the Strength of that Power, when all our own Power was gone, and we were utterly unable to help our ſelves; in ſtopping the Carier of ſuch prevailing <hi>Philiſtines,</hi> and bringing us in Safety to the beloved Haven of Security: Therefore let us <hi>praiſe God for his goodneſs, and declare the wonders that he doth for the chil<g ref="char:EOLhyphen"/>dren of men.</hi>
+            </p>
+            <p>And that we may be the better diſpos'd to ſuch a Joyful Employment, I ſhall addreſs my ſelf to theſe following Particulars.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:106276:6"/> I. To conſider this Goodneſs of God in relation to the Inhabitants of this Kingdom.</p>
+            <p n="2">II. That all the Mercies which we have re<g ref="char:EOLhyphen"/>ceiv'd, are the pure Reſult of his Goodneſs. And therefore,</p>
+            <p n="3">III. We have a great Obligation upon us to Praiſe God, and declare in our Thankſgi<g ref="char:EOLhyphen"/>vings the Wonders that he hath done for us.</p>
+            <p>This Goodneſs of God then will appear in theſe two Reſpects: From the Conſideration of the Dangers we have eſcap'd, and in the Mercies we have receiv'd.</p>
+            <p>1. He that will but open his Eyes, and look abroad into the World, cannot but be ſenſible under what Diſtreſs this once moſt happy Iſland has ſo lately groan'd: How both Church and State were forc'd to bend under the heavy Weight of a Miſguided Scepter: When our Religion lay a bleeding; when it was ſadly chang'd into Superſtition and Idolatry, and the Word of God was become offenſive, without a Leaven infus'd into it of Blind Zeal and Will-Worſhip. And though by a Mira<g ref="char:EOLhyphen"/>culous Providence the Time of this Tragedy was of no long Duration; though ſome Drops
+<pb n="7" facs="tcp:106276:6"/> only fell down to warn us of that Shower of Blood that muſt have follow'd (had not He in whom all Power is, ſtretch'd forth his migh<g ref="char:EOLhyphen"/>ty Arm to help us), yet even thoſe Drops were of themſelves ſufficient to proclaim that Storm of Perſecution that hung over our Heads.</p>
+            <p>What might we not have expected at that Time, when Cruelty was applauded as me<g ref="char:EOLhyphen"/>ritorious! When the Face of Truth was eclyps'd, and the very Foundation of our Church was ſhaken! When <hi>Viſion was ceas'd</hi> among us, and we could diſcern no Proſpect of unreſtrain'd Freedom in the Worſhip of God! When in the Scripture-Language, the Bells <hi>of Aaron had almoſt loſt</hi> their Clappers, and <hi>their Divine Noiſe could ſcarce be heard</hi> 
+               <note place="margin">
+                  <hi>Exod.</hi> 28. 33, 34, 35.</note> amongſt us! How great was the Proſpect of our Danger, when the <hi>Candleſticks were remo<g ref="char:EOLhyphen"/>ved</hi> out of their Places, and the Light of our Temples were juſt extinguiſh'd! With what reaſon might <hi>the ways of Sion</hi> mourn, becauſe none came <hi>up to her feaſts;</hi> when her Gates <hi>were deſolate,</hi> and <hi>her Prieſts lamenting!</hi> Did we not ſee all this already begun with the di<g ref="char:EOLhyphen"/>ſtreſſed Church of <hi>England?</hi> When our <hi>Gold was become dim,</hi> and our Sanctuaries neglect<g ref="char:EOLhyphen"/>ed;
+<pb n="8" facs="tcp:106276:7"/> and the Sons of <hi>Sion,</hi> which once were comparable to Fine Gold, were at that time <hi>eſteemed as Earthen Pitchers.</hi> It might then be read in the Countenance of every man, what he was not allow'd to ſpeak, when the Elders of the Daughter of <hi>Sion</hi> were <hi>commanded to ſit upon the ground, and to keep ſilence.</hi>
+            </p>
+            <p>Thus the firſt Scene of this Tragedy was begun amongſt us; whilſt the Church of the Reformation labour'd under theſe Agonies, <hi>travelling like the mother of Ichabod in the abortment</hi> 
+               <note place="margin">1 <hi>Sam.</hi> 4. 19, 21.</note> 
+               <hi>of her children!</hi> Whilſt our Land was fill'd with Idols, and with thoſe Graven Images which did excel them of <hi>Jeruſalem</hi> and of <hi>Samaria.</hi>
+            </p>
+            <p>This was the Danger of our Church at that time, when we had no Hopes of Delive<g ref="char:EOLhyphen"/>rance, till God with his own Right Hand re<g ref="char:EOLhyphen"/>pell'd our Enemies, and did Wonders for us; which will appear yet greater, from the De<g ref="char:EOLhyphen"/>fect and Miſmanagement in Civil as well as Eccleſiaſtic Matters.</p>
+            <p>Corruption, Cruelty, and unjuſt Oppreſ<g ref="char:EOLhyphen"/>ſion, did they not cry out aloud, even to the moſt <hi>Weſtern</hi> Part of our Iſland? How were our Ears fill'd in thoſe Days with the Groans of the Oppreſſed! Was not the Seat of Ju<g ref="char:EOLhyphen"/>ſtice in many Places made the Seat of Spoil,
+<pb n="9" facs="tcp:106276:7"/> that robb'd many Hundreds not only of their Privileges, but even of their Lives! Were not the Laws made then the Traps and Snares wherein both Plaintiff and Defendant were equally trepann'd! When Right and Wrong were ſo in Name only, and Innocence too frequently was branded as an Offender! When the Cauſe of the Fatherleſs was not taken part withal, nor the diſtreſſed Widow reliev'd in her Calamity! Might it not then be ſaid of ours, as the Holy Prophet ex<g ref="char:EOLhyphen"/>claim'd againſt the <hi>Governors</hi> of <hi>Judah,</hi> her Magiſtrates, and high-plac'd Officers, That indeed they ſhould be <hi>blinded as to Reſpect of Perſons;</hi> but inſtead of that, they were blinded with <hi>Gifts and Bribes;</hi> for the Mat<g ref="char:EOLhyphen"/>ter was never examin'd by the Weight of its Merit, but by the Weight of the Re<g ref="char:EOLhyphen"/>ward of the Mighty: And the Poor, the Juſt, and the Righteous Man, his Cauſe ne<g ref="char:EOLhyphen"/>glected, and all of them equally oppreſs'd and caſhier'd! How mournfully (methinks) did the Prophet in his Time lament all this, when he ſaid the City <hi>was</hi> full of Judgment, and <hi>Righteouſneſs lodged in her;—but now</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 1. 21.</note> 
+               <hi>Murtherers.</hi>
+            </p>
+            <pb n="10" facs="tcp:106276:8"/>
+            <p> This not long ſince was the ſad De<g ref="char:EOLhyphen"/>cay both in Church and State; when <hi>evil was called good, and good evil; light was put for darkneſs, and darkneſs for light:</hi> When the <hi>Wicked were juſtified for Reward, and the Righteouſneſs of the Righteous was taken from him:</hi> When the Innocent was pro<g ref="char:EOLhyphen"/>nounced guilty, and the truly Religious Heretical and Criminous.</p>
+            <p>But, bleſſed be his Name, we ſee the Tribunal is God's; and with what Strength ſoever Authority may be graſp'd, ſtill there is an All-wiſe Power above, who can Infatuate the Counſel of the Crafty; who for his own Mercy ſake can wreſt and take away the Sword out of the Hand of the Oppreſſors, although they have the Strength of Legions to ſecure it.</p>
+            <p>And this is the Great Work which he hath done for us, whereof we rejoice: Reſcuing us from a Captivity both in Body and Soul; both in Church and State; and that from ſo Great a Power, from ſuch otherwiſe Invincible <hi>Armada's,</hi> that we may well ſay with Holy <hi>David,</hi>
+               <pb n="11" facs="tcp:106276:8"/> 
+               <hi>When the Lord turned again the captivity of Sion, then were we like unto them that dream:</hi> For what could it appear otherwiſe than a Matter of mere Fancy and Imagination, for us to have been thus ſurpriz'd by ſuch a ſtrange Deliverance, without Blood, al<g ref="char:EOLhyphen"/>moſt without a Struggle, from the Ne<g ref="char:EOLhyphen"/>fandous Stratagems of ſuch a Convention; from the very midſt of ſuch well-appoint<g ref="char:EOLhyphen"/>ed Men, as might in a Good Cauſe have challeng'd, have engag'd the whole World, and overcome them? Therefore, <hi>Not unto us, moſt gracious God, not unto us, but unto thy Sacred Name be the Praiſe and Glory!</hi> O let us Praiſe our God for this his Good<g ref="char:EOLhyphen"/>neſs to us, and declare theſe Wonders that he hath done for us: Who has ſurpaſs'd our very Hopes by the Greatneſs of his Love, and has done more for us than our own Hearts could wiſh for, or we were able to deſire of him. But</p>
+            <p>
+               <hi>2dly.</hi> We ſhall find this Goodneſs of God enlarg'd, not only from the Dan<g ref="char:EOLhyphen"/>gers we have eſcap'd by his means, but by the Immenſe Goodneſs of his Love to
+<pb n="12" facs="tcp:106276:9"/> us, in the Merciful Favours we have re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>And this has brought me to the Glo<g ref="char:EOLhyphen"/>rious Theme moſt proper for our pre<g ref="char:EOLhyphen"/>ſent Occaſion: 'Tis the pleaſant Counte<g ref="char:EOLhyphen"/>nance of Peace, that we are now to fix our Eyes upon: They are the delightful Notes which ſhe dictates, that we are now to ſing: A Melody ſo grateful, ſo inchanting to the greateſt Part of <hi>Europe,</hi> that I am perſuaded no Voice could charm like this of an <hi>Univerſal Peace:</hi> No Sound could yield ſo great, ſo melodious an Har<g ref="char:EOLhyphen"/>mony: For what can be more tuneful to a Chriſtian Ear, than to hear the conſent<g ref="char:EOLhyphen"/>ing Voices of all <hi>Chriſtendom,</hi> joining in a Symphony, and the ſweet Conſort of Peace and Concord.</p>
+            <p>Whoever is not ſenſible of this great Bleſſing, muſt be wholly ignorant of the direful Effects of a Bloody War: No man that has ever taſted the bitter Cup of an Invaſion, or that has ever ſet his Foot upon the Bloody Stage of War, can forbear to Praiſe the Living God, for the Divine Bleſſings of a Peace. He that has
+<pb n="13" facs="tcp:106276:9"/> heard the Claſhings of the Sword and Spear, the direful Shoutings of prevailing Par<g ref="char:EOLhyphen"/>ties, and the ſad Mourns of poor Wound<g ref="char:EOLhyphen"/>ed Captives: He that has beheld the fenced Cities begirt with bloody Regi<g ref="char:EOLhyphen"/>ments, ſurrounded with thoſe mercileſs Executioners of Death, that black King of Terrors, whilſt no place has been left open, but into the Grim Jaws of cer<g ref="char:EOLhyphen"/>tain Ruin and Deſtruction: He that has beheld the Heaps of wounded Bodies lye weltring in their own Gore, whole Coun<g ref="char:EOLhyphen"/>tries become an <hi>Aceldama,</hi> and Field of Blood: When the flouriſhing Statelineſs of whole Kingdoms have been laid Level to the Ground, and their Lofty Turrets have retain'd no Memory but in their Ruinous Heaps and Demolitious: When Cities by their general Conflagrations have become Reſemblances of the General Judgment: When Parents have beheld their Chil<g ref="char:EOLhyphen"/>dren deflower'd before their Faces, pro<g ref="char:EOLhyphen"/>ſtituted to the Villany of Inſulting Con<g ref="char:EOLhyphen"/>querors, and have taken it as a Favour to be ſent out of the World, leſt they ſhould be tormented with the Sight of
+<pb n="14" facs="tcp:106276:10"/> ſuch Barbarities: And on the other hand, when Children have lifted up their Voi<g ref="char:EOLhyphen"/>ces in the mournful Strains of Lamen<g ref="char:EOLhyphen"/>tation and Sorrow, to behold the man<g ref="char:EOLhyphen"/>gled Bodies of their murther'd Parents, ſtretch'd forth and dead: He, I ſay, that has ever beheld theſe common Effects of the Rage of War, may eaſily be con<g ref="char:EOLhyphen"/>vinc'd of what reaſon there is to Bleſs and Praiſe Almighty God for the Bleſſings of a Peace.</p>
+            <p>And though through a moſt Bleſſed Providence, this Favourite Iſland of Hea<g ref="char:EOLhyphen"/>ven (as I may well call it) has been miraculouſly preſerv'd in all theſe Jars and Fightings round about us, from thoſe Shocks of Violence, when almoſt the whole World beſides have labour'd un<g ref="char:EOLhyphen"/>der them: Yet even upon this very Ac<g ref="char:EOLhyphen"/>count, our Praiſes to our God for ſuch ſingular Mercies, ſhould rather be enlarg'd with greater Acknowledgments: That We, over whom the greateſt Danger was im<g ref="char:EOLhyphen"/>pendent; We, who have deſerv'd the great<g ref="char:EOLhyphen"/>eſt Judgments by our Sins, ſhould yet come
+<pb n="15" facs="tcp:106276:10"/> off with the leaſt Reproach, with ſo much Honour and Renown.</p>
+            <p>'Tis true, and therefore we are oblig'd to acknowledge, That we owe this our Deliverance and our Peace, in a great meaſure, to the mighty Valour of a Brave Heroick Prince, whoſe Generous Conduct has made him Famous and Renown'd in all the Courts and Empires in the World: And in this our Gracious God has de<g ref="char:EOLhyphen"/>clar'd his Goodneſs to us, in raiſing up ſuch a Glorious Inſtrument to <hi>compleat</hi> his Wonders: For let me tell you, though this Mighty Man has already ſilenc'd that ſul<g ref="char:EOLhyphen"/>len God of War, and purchas'd Peace for us; yet has he another Conqueſt to pur<g ref="char:EOLhyphen"/>ſue; an Atchievement that requires an Arm no leſs Puiſſant than that Conquering Prince's, who has reduc'd the violent Out<g ref="char:EOLhyphen"/>rage of an Inſulting Enemy, into a calm Serenitude of Quietude and Peace: He has a Noble Conqueſt ſtill to make, by which he will obtain unto himſelf Another Crown in a Better Kingdom.</p>
+            <pb n="16" facs="tcp:106276:11"/>
+            <p> Sin, that Black Prince of Darkneſs, has ſet his Standard up in our Nation; and God knows, he has his Thouſands and his Legions that are daily fighting under his Proud Banners. If we conſider the whole Realm in all the common Quali<g ref="char:EOLhyphen"/>ties and Diſpoſitions of Men, ſhall we not find them all in a ſtrange Defection from Piety and Virtue; liſting to Apo<g ref="char:EOLhyphen"/>ſtacy, and falling from God: Some run<g ref="char:EOLhyphen"/>ning confuſedly into Diviſions, and they know not what Schiſms: Others making Religion a Cloak for their Hypocriſy: Every one ſetting up his own Temple to ſerve God in; and that is, in plain <hi>Engliſh,</hi> God has no Temple allow'd him, no Devotion paid him. Shall we not find them like thoſe men of <hi>Athens,</hi> dedicating their Lives and Actions, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to a God which they know not; of whoſe Goodneſs and Mercy, of whoſe Ma<g ref="char:EOLhyphen"/>jeſty and Power, of whoſe Providence over them in this World, and moſt Gracious Proffers of Eternal Life, they are reſolv'd to be ignorant, and not regard them. Is it not too plain, That our Religion, like
+<pb n="17" facs="tcp:106276:11"/> the Bleſſed Author of it, has ſcarce a Place where to repoſe its ſelf? Is it not too apparent, how the Temple of <hi>Bac<g ref="char:EOLhyphen"/>chus</hi> is more frequented than the Tem<g ref="char:EOLhyphen"/>ple of God? Has not a degenerate Cu<g ref="char:EOLhyphen"/>ſtom made it a common Practice for daring Men to be, inſtead of fearing God, openly diſputing againſt God; inſtead of Hearing or Meditating on his Word, Blaſpheming the Sacred Oracles of Life? And do not our Ears glow even of the Blaſphemy of the Multitude, who are reſolv'd, rather than there ſhall be no Di<g ref="char:EOLhyphen"/>viſions amongſt us, to divide Almighty God even from himſelf; to confound the Trinity in Unity, and as far as their Narrow Ca<g ref="char:EOLhyphen"/>pacities can reach, to deſtroy the Saviour of the World? Thus do they run toge<g ref="char:EOLhyphen"/>ther in whole Battalia's, fighting againſt the moſt High; and as it were ſtorming the Throne of the Son of God.</p>
+            <p>From hence then we may look into the true State of our Nation: What a mighty Army there now is, revelling under the Black Enſign of Miſery and
+<pb n="18" facs="tcp:106276:12"/> Death; ſo that our only Hope, next to the Good Providence of God, lies in the unſhaken ſingle Courage of this Kingdom's Worthy.</p>
+            <p>And I do not in the leaſt doubt but that this will be his next moſt Glorious Enterprize, to bring the Infidel and the Atheiſt to the Knowledge of his Maker: and by this means he will become as much a Favourite of Heaven, as by his own Proweſs he has made himſelf the Wonder of the World. But</p>
+            <p>
+               <hi>3dly.</hi> It is the Goodneſs of God alone that has wrought out all theſe his Won<g ref="char:EOLhyphen"/>ders for us: For alas! what can we pre<g ref="char:EOLhyphen"/>tend to, as a Motive ſpringing from our ſelves, to prevail upon him to bleſs us in ſuch Signal and Extraordinary Mer<g ref="char:EOLhyphen"/>cies? If the Sin and the Prophaneneſs of this Degenerate Age in which we live: If the Oppreſſion, the Extortion and In<g ref="char:EOLhyphen"/>juſtice ſo predominant amongſt us: If our Rebellion againſt God, and our Ha<g ref="char:EOLhyphen"/>tred of him: If our Contempt of all his
+<pb n="19" facs="tcp:106276:12"/> former Mercies to us, can be Arguments to plead for us, then indeed the Caſe is otherwiſe; for we have nothing elſe to offer in our own behalf. No, no; our Sins muſt be our Advocate, or there is nothing elſe that can come from us, to interceed with God for us: And therefore what might we not have expected from his Juſtice? What Viſitation, but his Wrath? What Meſſage, but the Puniſhment of our Sins? And yet when our Iniquities cried out aloud, even to Heaven for Ven<g ref="char:EOLhyphen"/>geance; when our Tranſgreſſions were ſo great as juſtly to deſerve ſome Signal Scourge and Judgment from above; even then are we deliver'd by a mighty Hand from the Scourge of Tyranizing Men; from the Fatal and Epidemick Cruelties of the Children of Blood. Bleſſed God! So great is thy Love to thy ſinful Crea<g ref="char:EOLhyphen"/>tures, that thou art more merciful than we can be ſinful.</p>
+            <p>In this then the Goodneſs of God is wonderfully apparent; that although he hateth Sin with a perfect Hatred, yet he
+<pb n="20" facs="tcp:106276:13"/> regardeth Sinners with a ſtupendious Love: For though we have rebelled againſt him, and revolted from him, yet ſtill he en<g ref="char:EOLhyphen"/>deavours to draw us to himſelf and to his Obedience, by the Cords of his Mercy: For this he has bleſs'd us hitherto; he has brought to nought the Malice which the Devil and Man had contriv'd againſt us: He has, if I may preſume to ſay ſo, new modell'd <hi>the Moſt Chriſtian</hi> Temper; chang'd the Nature of that which was not long ſince ſtain'd with the Black Cha<g ref="char:EOLhyphen"/>racters of Cruel and Tyrannick, into a Generous Diſpoſition of Reſtitution; to the Honour of Himſelf, the Glory of our Mighty Monarch, to the Peace and Sa<g ref="char:EOLhyphen"/>tisfaction of the whole Chriſtian World. And all this to bring us to a Senſe of his Loving-kindneſs, and our Obedience to his Righteous Commandments. And what ſhall we render unto him leſs than this, for theſe the Benefits which he has done unto us? Shall we not remember that this is the <hi>Lord's doing, and</hi> let it be <hi>mar<g ref="char:EOLhyphen"/>velous in our eyes? This is the Day which the Lord hath made,</hi> ſhall we not <hi>be glad and re<g ref="char:EOLhyphen"/>joice in it?</hi> For,</p>
+            <pb n="21" facs="tcp:106276:13"/>
+            <p> 
+               <hi>4thly.</hi> We have an indiſpenſible Obliga<g ref="char:EOLhyphen"/>tion upon us to expreſs our ſelves in a grateful Acknowledgment of his exceeding Goodneſs. And indeed, to ſhew our ſelves inſenſible of ſuch Favours as we have ſo lately received, would be an Ingratitude of the blackeſt Dye: This would be to tempt God afreſh, and make him to re<g ref="char:EOLhyphen"/>pent that ever he has done ſuch Won<g ref="char:EOLhyphen"/>ders for us. And I would have all men ſeriouſly conſider, that the ſame Almighty God who can do Wonders for our Good and Happineſs; if he finds we are re<g ref="char:EOLhyphen"/>ſolv'd that his Goodneſs ſhall work no good effect upon us; if we will not by that means be brought unto Repentance, (for that is the only way to ſhew our Acknowledgments of his Mercies) the ſame All-powerful God then can ſend as great Inſtances of his Anger, in his Puniſhments upon us. Let no man therefore be too ſecure, and think it beyond the Power of God to puniſh, now there is a Peace among Men; for when God ariſes in his Anger, with his Sword unſheath'd, to exe<g ref="char:EOLhyphen"/>cute
+<pb n="22" facs="tcp:106276:14"/> his Juſtice upon thoſe that will not be by any means prevail'd upon to <hi>turn from the evil of their ways;</hi> when once the Sins of any People make them ripe for Vengeance; then 'tis that God wants nei<g ref="char:EOLhyphen"/>ther Strength, nor the Aſſiſtance of Inſulting Men; but he has ways enough to vindi<g ref="char:EOLhyphen"/>cate his Honour and his Juſtice, and to puniſh any backſliding fooliſh People: 'Tis not always that he commiſſions the Sword to paſs through the Land: Some<g ref="char:EOLhyphen"/>times he puniſhes by Famine, then by Pe<g ref="char:EOLhyphen"/>ſtilence; theſe are more raging, cruel Ene<g ref="char:EOLhyphen"/>mies, than any other. 'Tis not, as I'm inform'd, above Two and thirty Years, ſince this very Town did feel the impar<g ref="char:EOLhyphen"/>tial Stroke of one of theſe unrelenting Executioners: And I am apt to think that Tragick Time has not eſcap'd the Memo<g ref="char:EOLhyphen"/>ry of ſome that are here amongſt us: When the Tolls of Paſſing-Bells ſcarce ever ceas'd; when the Voice of Mourning was never ſilent: When tender-hearted Pa<g ref="char:EOLhyphen"/>rents dar'd not approach the Beds of their Sick and Dying Children; and when they on the other hand dar'd not approach to
+<pb n="23" facs="tcp:106276:14"/> beg the Bleſſing of their dying Parents, for fear of the Infection: When men awoke and roſe well in the Morning, and yet were laid among the Dead ere Night: When there was no Muſick but the Noiſe of Bells, to proclaim the Rage of Death: When in each Hour the deſtroying An<g ref="char:EOLhyphen"/>gel mow'd down Multitudes, and every Week's End brought the News of the Increaſe of Thouſands. Did you not then, if you might venture through the Streets, behold them fill'd with the Voice of La<g ref="char:EOLhyphen"/>mentation, and the ſad Liveries of Mourn<g ref="char:EOLhyphen"/>ing. Thus <hi>then</hi> you were convinc'd, that God could be provok'd; and when his Mercies would not do to reclaim men from their Sins, he had more ways than by a Common Enemy to puniſh the Tranſ<g ref="char:EOLhyphen"/>greſſors of his Will.</p>
+            <p>And ſhall not this prevail upon <hi>Us</hi> alſo to be wrought upon by his Good<g ref="char:EOLhyphen"/>neſs; to Praiſe his Holy Name as we ought to do! We muſt be ſenſible that he tries by all the ſofteſt ways of Ten<g ref="char:EOLhyphen"/>derneſs and Love to win our Hearts to him,
+<pb n="24" facs="tcp:106276:15"/> before he pleads with us with his Rod in his hand.</p>
+            <p>Let us not then provoke ſo good a Be<g ref="char:EOLhyphen"/>nefactor, by a Contempt of his Indulgent Favours, and becauſe they are ſo conti<g ref="char:EOLhyphen"/>nually multiplied upon us. What could he have done more for us, that he has not done? Oh then! Shall we not praiſe this God? Is there any thing that he can command us, and we ungratefully refuſe it? Surely, had we Hearts of Rock, we muſt be melted by his Goodneſs; and never be ſo ſtupid, ſo dumb, as not to open our Mouths, to declare the Wonders that he hath done for us.</p>
+            <p>But what Anthem ſhall we deviſe to ſing theſe Mercies! How ſhall we ſtrain our Voices to ſuch a Key, as ſhall ever reach the Heighth of his Immenſe Love! O let it be the Harmony of our Lives! Let all our Actions ſpeak the Senſe we have of the Length, and Breadth, and Depth, and Heighth of the unbounded Goodneſs of our Heavenly Father: Remembring that
+<pb n="25" facs="tcp:106276:15"/>
+'tis not for this time only that God can en<g ref="char:EOLhyphen"/>large his Love to this vaſt degree: His Al<g ref="char:EOLhyphen"/>mighty Power is as Immenſe, as his Love is Infinite; and he can make his Goodneſs to ſhine upon every particular Soul among us, as well as upon a whole Kingdom in general. And if God can thus bleſs us with his Goodneſs here, how tranſcendent will his Favour be upon us in another World!</p>
+            <p>To conclude: Let this be the Method of our Praiſes and Thankſgivings, To redeem the Time that we have loſt; to prove our ſelves worthy of theſe Favours which we have receiv'd, keeping the Unity of the Spi<g ref="char:EOLhyphen"/>rit in the Bond of Peace. Let the whole Courſe of our Lives be ſquar'd according to the Rule of God's Precepts: That our Rejoicings may flow from the Peace of a Good Conſcience; then ſhall we have Peace indeed; even <hi>the Peace of God, which paſſeth all underſtanding.</hi> O let our Hearts be lift<g ref="char:EOLhyphen"/>ed up to God! whilſt the remaining part of our Lives is ſpent, not in a wild Pro<g ref="char:EOLhyphen"/>phaneneſs, not in Revelling and Debauches, not in the ſecret Murmurings of Factious
+<pb n="26" facs="tcp:106276:16"/> Spirits; but in Sincerity and Truth, in Vir<g ref="char:EOLhyphen"/>tue and Religion: with a Spiritual Joy and Gladneſs; proclaiming and admiring the Goodneſs and wonderful Mercies of Al<g ref="char:EOLhyphen"/>mighty God; praiſing and adoring his Ho<g ref="char:EOLhyphen"/>ly Name; chanting out his Glory here, as it will be our conſtant Employment and Pleaſure to do in never-ceaſing Hallelu<g ref="char:EOLhyphen"/>jahs, when we ſhall come to ſee him, and enjoy his Bleſſed Preſence in the next World: Which that we may all do, God of his Infinite Mercy grant, for the ſake of our Lord Jeſus Chriſt: <hi>To whom, with Thee, O Father, and the Holy Spirit, be aſcribed all Glory and Honour, Praiſe and Thanksgi<g ref="char:EOLhyphen"/>ving, both now and ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106276:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
